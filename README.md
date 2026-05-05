@@ -21,13 +21,13 @@ A simple and clean Flutter application that calculates Body Mass Index (BMI) bas
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.jpg)
 
 ### Normal-BMI Screen
-![Normal-BMI Screen](screenshots/normal_bmi.png)
+![Normal-BMI Screen](screenshots/normal_bmi.jpg)
 
 ### Obese-BMI Screen
-![Obese-BMI Screen](screenshots/obese_bmi.png)
+![Obese-BMI Screen](screenshots/obese_bmi.jpg)
 
 ---
 
