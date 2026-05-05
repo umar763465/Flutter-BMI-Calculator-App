@@ -75,10 +75,11 @@ flutter run
 ```
 ## 🎯 Future Improvements
 
-Add unit selection (cm / ft)
-Add history of BMI calculations
-Improve UI animations
-Add health tips based on BMI result
+- Add unit selection (cm / ft)
+- Add history of BMI calculations
+- Improve UI animations
+- Add health tips based on BMI result
+---
 
 ## 👨‍💻 Author
 
