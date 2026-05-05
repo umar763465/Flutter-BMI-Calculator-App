@@ -80,7 +80,7 @@ Add history of BMI calculations
 Improve UI animations
 Add health tips based on BMI result
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Umar
 Flutter Developer | BSCS Student
