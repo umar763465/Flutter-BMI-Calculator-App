@@ -28,6 +28,7 @@ A simple and clean Flutter application that calculates Body Mass Index (BMI) bas
 
 ### Obese-BMI Screen
 ![Obese-BMI Screen](screenshots/obese_bmi.png)
+
 ---
 
 ## 🛠️ Tech Stack
