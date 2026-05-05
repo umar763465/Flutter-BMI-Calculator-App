@@ -65,21 +65,20 @@ Clone the repository:
 git clone https://github.com/your-username/flutter-bmi-calculator.git
 
 Navigate to project folder:
-
 cd flutter-bmi-calculator
 
 Install dependencies:
-
 flutter pub get
 
 Run the app:
-
 flutter run
+```
 ** 🎯 Future Improvements
 Add unit selection (cm / ft)
 Add history of BMI calculations
 Improve UI animations
 Add health tips based on BMI result
-👨‍💻 Author
+
+**👨‍💻 Author
 Umar
 Flutter Developer | BSCS Student
