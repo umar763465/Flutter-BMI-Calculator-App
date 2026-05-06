@@ -62,7 +62,7 @@ lib/
 Clone the repository:
 
 ```bash
-git clone https://github.com/umar763465/flutter-bmi-calculator.git
+git clone https://github.com/umar763465/flutter-bmi-calculator-app.git
 
 Navigate to project folder:
 cd flutter-bmi-calculator
